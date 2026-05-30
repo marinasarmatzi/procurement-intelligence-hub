@@ -38,8 +38,7 @@ Built using Power BI, DAX, SQL, Power Query and Python-generated synthetic datas
 
 ## 📊 Report Pages
 
-<img width="969" height="547" alt="image" src="https://github.com/user-attachments/assets/9fc269cb-709d-4d50-a3f0-e1ea0e3f87cc" />
-
+<img width="972" height="546" alt="image" src="https://github.com/user-attachments/assets/81876f1d-98eb-4b60-937c-e15f68ab7397" />
 
 ### Executive Overview
 
