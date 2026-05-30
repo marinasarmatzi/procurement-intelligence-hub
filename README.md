@@ -42,7 +42,8 @@ Built using Power BI, DAX, SQL, Power Query and Python-generated synthetic datas
 
 Executive KPIs, spend composition, supplier coverage, regional analysis and procurement performance monitoring.
 
-![Overview](assets/overview.png)
+<img width="968" height="548" alt="image" src="https://github.com/user-attachments/assets/eadf6f55-5ddf-41d5-a048-d5a45d5792ff" />
+
 
 ---
 
