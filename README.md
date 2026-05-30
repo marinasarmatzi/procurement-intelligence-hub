@@ -38,12 +38,14 @@ Built using Power BI, DAX, SQL, Power Query and Python-generated synthetic datas
 
 ## 📊 Report Pages
 
+<img width="969" height="547" alt="image" src="https://github.com/user-attachments/assets/9fc269cb-709d-4d50-a3f0-e1ea0e3f87cc" />
+
+
 ### Executive Overview
 
 Executive KPIs, spend composition, supplier coverage, regional analysis and procurement performance monitoring.
 
 <img width="968" height="548" alt="image" src="https://github.com/user-attachments/assets/eadf6f55-5ddf-41d5-a048-d5a45d5792ff" />
-
 
 ---
 
@@ -51,7 +53,7 @@ Executive KPIs, spend composition, supplier coverage, regional analysis and proc
 
 Supplier concentration analysis, preferred supplier coverage, segmentation and procurement risk visibility.
 
-![Supplier Intelligence](assets/supplier-intelligence.png)
+<img width="968" height="511" alt="image" src="https://github.com/user-attachments/assets/87f494d7-00f6-4f95-b455-d86e4fb71fe0" />
 
 ---
 
@@ -59,7 +61,8 @@ Supplier concentration analysis, preferred supplier coverage, segmentation and p
 
 Savings delivery monitoring, initiative performance tracking and regional contribution analysis.
 
-![Savings Intelligence](assets/savings-intelligence.png)
+<img width="969" height="517" alt="image" src="https://github.com/user-attachments/assets/35320c57-a771-4c12-80ea-5bf41ab8ff3c" />
+
 
 ---
 
@@ -67,7 +70,7 @@ Savings delivery monitoring, initiative performance tracking and regional contri
 
 Contract expiry timelines, commitment exposure, auto-renewal monitoring and renewal risk tracking.
 
-![Contract Exposure](assets/contract-exposure.png)
+<img width="965" height="519" alt="image" src="https://github.com/user-attachments/assets/68fad20d-8422-49ca-a58e-28945ff9892f" />
 
 ---
 
@@ -75,7 +78,7 @@ Contract expiry timelines, commitment exposure, auto-renewal monitoring and rene
 
 Self-service procurement data export experience with dynamic field selection and customizable views.
 
-![Data Exploration](assets/data-exploration.png)
+<img width="968" height="518" alt="image" src="https://github.com/user-attachments/assets/7ecdd5c8-e4a7-4bb6-86db-843eddb689f8" />
 
 ---
 
