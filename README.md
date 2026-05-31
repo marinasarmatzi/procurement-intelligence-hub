@@ -38,6 +38,10 @@ Built using Power BI, DAX, SQL, Power Query and Python-generated synthetic datas
 
 ## 📊 Report Pages
 
+### Introduction & Navigation
+
+The landing page introduces the Procurement Intelligence Hub, outlines the project scope, key capabilities, technology stack, and provides intuitive navigation across all analytical domains.
+
 <img width="972" height="546" alt="image" src="https://github.com/user-attachments/assets/81876f1d-98eb-4b60-937c-e15f68ab7397" />
 
 ### Executive Overview
