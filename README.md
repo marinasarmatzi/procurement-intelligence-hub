@@ -12,7 +12,7 @@ Built using Power BI, DAX, SQL, Power Query and Python-generated synthetic datas
 
 👉 Watch the full dashboard walkthrough here:
 
-[YouTube Demo Link]
+https://www.youtube.com/watch?v=Gpm6JImq0yk
 
 ---
 
